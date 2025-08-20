@@ -18,7 +18,7 @@
     <div>
          <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        <button class="btn btn-light text-secondary" type="submit">Search</button>
+        <button class="btn btn-light theme-green-btn  text-secondary" type="submit">Search</button>
       </form>
     </div>
     
@@ -30,6 +30,9 @@
     </div>
   </div>
 </nav>
+<div>
+    <h2>Welcome to the Home Page</h2>
+</div>
 <footer class="bg-primary text-light py-3 mt-5">
     <div class="container text-center">
         &copy; 2025 E-commerce. All rights reserved.
