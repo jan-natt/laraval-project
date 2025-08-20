@@ -7,13 +7,16 @@
 }
 .theme-orange-btn:hover{
     background-color: rgb(255, 165, 0);
+    opacity: 0.9;
 }
 
 .theme-blue-btn{
     background-color: rgb(136, 196, 214);
+   
 }
 .theme-blue-btn:hover{
     background-color: rgb(204, 0, 255);
+     opacity: 0.9;
 }
 .theme-green-btn:hover{
     background-color: rgb(80, 141, 111);
