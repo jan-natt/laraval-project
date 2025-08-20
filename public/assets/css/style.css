@@ -1,3 +1,17 @@
 .theme-navbar{
     background-color: rgb(0, 132, 255);
 }
+
+.theme-orange-btn{
+    background-color: chocolate;
+}
+.theme-orange-btn:hover{
+    background-color: rgb(255, 165, 0);
+}
+
+.theme-blue-btn{
+    background-color: rgb(136, 196, 214);
+}
+.theme-blue-btn:hover{
+    background-color: rgb(204, 0, 255);
+}

@@ -24,8 +24,8 @@
     
     <div class="ms-5"> 
       <a href="#" class="text-decoration-none text-light">Become seller</a>
-      <a href="#" class="btn btn-success btn-sm"><i class="fa-solid fa-cart-shopping"></i>cart</a>
-      <a href="#" class="btn btn-primary btn-sm"><i class="fa-solid fa-right-to-bracket"></i>login</a>
+      <a href="#" class="btn theme-blue-btn btn-sm text-light"><i class="fa-solid fa-cart-shopping"></i>cart</a>
+      <a href="#" class="btn theme-orange-btn btn-sm text-light"><i class="fa-solid fa-right-to-bracket"></i>login</a>
 
     </div>
   </div>
