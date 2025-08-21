@@ -17,8 +17,8 @@
     </button>
     <div>
          <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        <button class="btn btn-light theme-green-btn btn-sm text-secondary" type="submit">Search</button>
+        <input class="form-control me-2" type="search" style="width: 500px;" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-light theme-green-btn btn-sm text-secondary"  type="submit">Search</button>
       </form>
     </div>
     
@@ -27,6 +27,36 @@
       <a href="#" class="btn theme-blue-btn btn-sm text-light"><i class="fa-solid fa-cart-shopping"></i>cart</a>
       <a href="#" class="btn theme-orange-btn btn-sm text-light"><i class="fa-solid fa-right-to-bracket"></i>login</a>
 
+    </div>
+  </div>
+</nav>
+
+<!-- category nav-->
+
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+      <ul class="nav">
+        <li class="nav-item">
+          <a class="nav-link active text-dark"  href="#">Mobile</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">Fashion</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">Electronics</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">Home & Garden</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">Furniture</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">Appliances</a>
+        </li>
+      </ul>
     </div>
   </div>
 </nav>

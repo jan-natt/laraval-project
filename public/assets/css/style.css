@@ -21,3 +21,7 @@
 .theme-green-btn:hover{
     background-color: rgb(80, 141, 111);
 }
+
+.theme-product img:hover{
+    transform: scaleX(-1);
+}
