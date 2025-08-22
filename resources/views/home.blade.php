@@ -45,7 +45,10 @@
 <!-- product -->
  <section class="my-5">
     <div class="container">
-        <h1 class="mb-4">Our top Products</h1>
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1 class="mb-0">Our top Products</h1>
+            <a href="#" class="btn btn-primary">View All</a>
+        </div>
         <div class="row theme-product">
             <div class="col-lg-3">
                 <div class="card" >
@@ -154,4 +157,121 @@
         </div>
     </div>
 </section>
+
+
+
+<!-- product -->
+ <section class="my-5">
+    <div class="container">
+        <h1 class="mb-4">Our top Products</h1>
+        <div class="row theme-product">
+            <div class="col-lg-3">
+                <div class="card" >
+                <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+             <div class="col-lg-3">
+                <div class="card" >
+                 <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+             <div class="col-lg-3">
+                <div class="card" >
+                 <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+             <div class="col-lg-3">
+                <div class="card" >
+                 <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- product -->
+ <section class="my-5">
+    <div class="container">
+        <h1 class="mb-4">Our top Products</h1>
+        <div class="row theme-product">
+            <div class="col-lg-3">
+                <div class="card" >
+                <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+             <div class="col-lg-3">
+                <div class="card" >
+                 <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+             <div class="col-lg-3">
+                <div class="card" >
+                 <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+             <div class="col-lg-3">
+                <div class="card" >
+                 <a href="#"><img src="{{ asset('assets/images/1.jpg') }}" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to
+                        build on the card title and make up the bulk of the card’s content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 @endsection
